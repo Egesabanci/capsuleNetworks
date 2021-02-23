@@ -9,7 +9,7 @@ Among other benefits, capsnets address the "Picasso problem" in image recognitio
 ### Paper:
 ```
 Dynamic Routing Between Capsules - Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
-Link: [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+Link: (https://arxiv.org/abs/1710.09829)
 ```
 
 ![alt text](https://repository-images.githubusercontent.com/168210197/14bde000-8c49-11e9-8f5c-798cf3b9eabb)
